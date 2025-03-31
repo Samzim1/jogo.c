@@ -134,7 +134,7 @@ int main()
         switch (sistema)
         {
         case 1:
-             exit(0); // encerra o programa
+             exit(0);
             break;
         }
     }
